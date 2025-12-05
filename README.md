@@ -148,3 +148,6 @@ unsubscribe permite quitar suscriptores.
 Chequeo de duplicados evita que un mismo suscriptor reciba notificaciones más de una vez.
 
 Funciones internas separadas mejoran claridad y legibilidad
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/012128de-2e1d-492d-acdc-20c0d9d1e0a5" />
